@@ -1,7 +1,6 @@
-// ==UserScript==
 // @name        Global Attribute Replacement
 // @description Overwrites all of a specified attribute
-// @version     1
+// @version     1.0
 // @grant       none
 // Written by Allen Vanderlinde
 // ==/UserScript==
