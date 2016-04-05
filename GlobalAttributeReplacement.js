@@ -3,7 +3,6 @@
 // @version     1.0
 // @grant       none
 // Written by Allen Vanderlinde
-// ==/UserScript==
 
 (function() {
     var originalLink = 'https://www.google.com';
