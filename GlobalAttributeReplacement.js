@@ -6,7 +6,7 @@
 
 (function() {
     var originalLink = 'https://www.google.com';
-    var updatedLink = 'https://www.arstechnical.com';
+    var updatedLink = 'https://www.arstechnica.com';
 
     function replaceLinks(element, attribute, orig, updated) {
         var elements = document.getElementsByTagName(element);
